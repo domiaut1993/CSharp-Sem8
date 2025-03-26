@@ -1,0 +1,17 @@
+E:\C#\UPR3.3\UPR3.3\obj\Debug\net8.0\UPR3.3.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\UPR3.3\UPR3.3\obj\Debug\net8.0\UPR3.3.AssemblyInfoInputs.cache
+E:\C#\UPR3.3\UPR3.3\obj\Debug\net8.0\UPR3.3.AssemblyInfo.cs
+E:\C#\UPR3.3\UPR3.3\obj\Debug\net8.0\UPR3.3.csproj.CoreCompileInputs.cache
+E:\C#\UPR3.3\UPR3.3\bin\Debug\net8.0\UPR3.3.exe
+E:\C#\UPR3.3\UPR3.3\bin\Debug\net8.0\UPR3.3.deps.json
+E:\C#\UPR3.3\UPR3.3\bin\Debug\net8.0\UPR3.3.runtimeconfig.json
+E:\C#\UPR3.3\UPR3.3\bin\Debug\net8.0\UPR3.3.dll
+E:\C#\UPR3.3\UPR3.3\bin\Debug\net8.0\UPR3.3.pdb
+E:\C#\UPR3.3\UPR3.3\bin\Debug\net8.0\HtmlAgilityPack.dll
+E:\C#\UPR3.3\UPR3.3\obj\Debug\net8.0\UPR3.3.csproj.AssemblyReference.cache
+E:\C#\UPR3.3\UPR3.3\obj\Debug\net8.0\UPR3.3.csproj.Up2Date
+E:\C#\UPR3.3\UPR3.3\obj\Debug\net8.0\UPR3.3.dll
+E:\C#\UPR3.3\UPR3.3\obj\Debug\net8.0\refint\UPR3.3.dll
+E:\C#\UPR3.3\UPR3.3\obj\Debug\net8.0\UPR3.3.pdb
+E:\C#\UPR3.3\UPR3.3\obj\Debug\net8.0\UPR3.3.genruntimeconfig.cache
+E:\C#\UPR3.3\UPR3.3\obj\Debug\net8.0\ref\UPR3.3.dll
