@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTJ0g5fyS4c=",
+  "success": true,
+  "projectFilePath": "E:\\C#\\UPR3.2\\UPR3.2\\UPR3.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\domia\\.nuget\\packages\\htmlagilitypack\\1.12.0\\htmlagilitypack.1.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
