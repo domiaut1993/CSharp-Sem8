@@ -1,0 +1,14 @@
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\bin\Debug\net8.0\UPR2.2.exe
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\bin\Debug\net8.0\UPR2.2.deps.json
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\bin\Debug\net8.0\UPR2.2.runtimeconfig.json
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\bin\Debug\net8.0\UPR2.2.dll
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\bin\Debug\net8.0\UPR2.2.pdb
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\obj\Debug\net8.0\UPR2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\obj\Debug\net8.0\UPR2.2.AssemblyInfoInputs.cache
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\obj\Debug\net8.0\UPR2.2.AssemblyInfo.cs
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\obj\Debug\net8.0\UPR2.2.csproj.CoreCompileInputs.cache
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\obj\Debug\net8.0\UPR2.2.dll
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\obj\Debug\net8.0\refint\UPR2.2.dll
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\obj\Debug\net8.0\UPR2.2.pdb
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\obj\Debug\net8.0\UPR2.2.genruntimeconfig.cache
+C:\Users\student\43\UPR2\UPR2.2\UPR2.2\obj\Debug\net8.0\ref\UPR2.2.dll

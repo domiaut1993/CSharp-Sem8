@@ -1,0 +1,17 @@
+C:\Users\student\43\UPR2\UPR2\UPR2\obj\Debug\net8.0\UPR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\43\UPR2\UPR2\UPR2\obj\Debug\net8.0\UPR2.AssemblyInfoInputs.cache
+C:\Users\student\43\UPR2\UPR2\UPR2\obj\Debug\net8.0\UPR2.AssemblyInfo.cs
+C:\Users\student\43\UPR2\UPR2\UPR2\obj\Debug\net8.0\UPR2.csproj.CoreCompileInputs.cache
+C:\Users\student\43\UPR2\UPR2\UPR2\bin\Debug\net8.0\UPR2.exe
+C:\Users\student\43\UPR2\UPR2\UPR2\bin\Debug\net8.0\UPR2.deps.json
+C:\Users\student\43\UPR2\UPR2\UPR2\bin\Debug\net8.0\UPR2.runtimeconfig.json
+C:\Users\student\43\UPR2\UPR2\UPR2\bin\Debug\net8.0\UPR2.dll
+C:\Users\student\43\UPR2\UPR2\UPR2\bin\Debug\net8.0\UPR2.pdb
+C:\Users\student\43\UPR2\UPR2\UPR2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\student\43\UPR2\UPR2\UPR2\obj\Debug\net8.0\UPR2.csproj.AssemblyReference.cache
+C:\Users\student\43\UPR2\UPR2\UPR2\obj\Debug\net8.0\UPR2.csproj.Up2Date
+C:\Users\student\43\UPR2\UPR2\UPR2\obj\Debug\net8.0\UPR2.dll
+C:\Users\student\43\UPR2\UPR2\UPR2\obj\Debug\net8.0\refint\UPR2.dll
+C:\Users\student\43\UPR2\UPR2\UPR2\obj\Debug\net8.0\UPR2.pdb
+C:\Users\student\43\UPR2\UPR2\UPR2\obj\Debug\net8.0\UPR2.genruntimeconfig.cache
+C:\Users\student\43\UPR2\UPR2\UPR2\obj\Debug\net8.0\ref\UPR2.dll
